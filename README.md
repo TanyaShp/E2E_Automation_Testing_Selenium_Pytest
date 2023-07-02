@@ -1,4 +1,4 @@
-# E2E_Automation_Testing_Selenium_Pytest
+# Selenium PyTest Testing for Flask Web Application
 
 This repository contains automated testing scripts for a Flask web application located at https://github.com/TanyaShp/Flask_Python_Book_Review. Selenium WebDriver is used for end-to-end testing and PyTest for unit testing. The goal of this project is to automate the process of testing new features and bug fixes, helping to ensure the reliability and robustness of the application.
 
